@@ -1,0 +1,44 @@
+/************TAG SELECTORS*********/
+body{background-color:#feffff;
+  margin:0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;;
+}
+h1{margin-top:0;
+font-family: 'Sacramento', cursive;
+color:#54BAB9;
+font-size: 100px;
+margin:0}
+
+h2{font-family: 'Loved by the King', cursive;
+color: #ADC2A9;
+font-size: 30px;
+margin:0 0 20px 0;}
+
+h3{font-family: 'Loved by the King', cursive;
+color:#ADC2A9;}
+
+hr {
+  background-color: #FBF8F1;
+  border-style: dotted none none;
+  border-color: #E9DAC1;
+  border-width: 5px;
+  height:1px;
+  width:10%}
+
+/************CLASS SELECTORS*********/
+.top-container{background-color:#EDF8F8;
+  position:relative;
+  padding-top:100px;}
+.cloud2{position:absolute;
+  bottom:450px;
+  left:250px;}
+.cloud1{position:absolute;
+  top:50px;
+  right:300px;}
+.middle-container{
+
+}
+.bottom-container{
+
+}
